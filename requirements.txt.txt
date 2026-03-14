@@ -1,4 +1,0 @@
-streamlit
-anthropic
-opencv-python-headless
-pillow
