@@ -23,7 +23,7 @@ if not api_key:
     st.stop()
 
 # Modelo fijo (el más equilibrado y económico)
-MODEL = "claude-3-5-sonnet-latest"
+MODEL = "claude-sonnet-4-6"
 
 # Crear carpetas necesarias (frames sí se pueden escribir en Cloud)
 os.makedirs("frames", exist_ok=True)
